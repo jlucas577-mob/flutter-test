@@ -13,14 +13,12 @@ Deve conter:
   - Botão que abra uma tela listando todas as posições registradas, e possibilitando apagar determinado item, ou todas de uma só vez.
   - Botão para focar novamente na posição atual do usuário, caso ele de zoom/navegue em outra região.
   - Diferentes ícones para: localização atual, posições registradas anteriormente.
-  - Splash screen personalizada com a identidade do aplicativo.
   - AppBar em todas as telas.
   - Configuração básica (nome, icone, permissões) nos projetos das plataformas Android e iOS.
 
 Diferenciais:
 
 - Verificar se o usuário está conectado a uma rede de internet ao abrir o aplicativo.
-- Durante o uso, verificar se o usuário está com a localização mockada/fake.
 
 Design:
 
